@@ -1,1 +1,1 @@
-hello world !
+CrossBrowsers Framework for markup!
